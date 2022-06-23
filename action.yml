@@ -1,6 +1,6 @@
-name: 'Code Coverage Summary'
+name: 'Code Coverage Summaryy'
 author: 'Eric Daniels <eric@erdaniels.com>'
-description: 'A GitHub Action that reads Cobertura format code coverage files and outputs a text or markdown summary. (forked from irongut/CodeCoverageSummary)'
+description: 'A GitHub Action that reads Cobertura format code coverage files and outputs a text or markdown summary.'
 branding:
   icon: book-open
   color: purple
